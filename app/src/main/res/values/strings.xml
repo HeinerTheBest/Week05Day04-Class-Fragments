@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week05Day04 Class Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_to_red_fragment">Send to Red Fragment</string>
+</resources>
